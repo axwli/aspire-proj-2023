@@ -1,6 +1,6 @@
 # ASPIRE Project 2023.
 
-Research project advised by Dr. Seth Frey, to be presented at the 2023 ASPIRE Symposium.
+Research project advised by Dr. Seth Frey. Presented at the 2023 ASPIRE Symposium.
 
 ## Abstract
 In 2017, Taylor Swift released an album titled "Reputation" to rebuild her image after a decade-long feud with Kanye West. This project aims to explore the shift in public opinion on Twitter following the album's release. We used sentiment analysis tools to quantify negative and positive sentiment towards Taylor Swift before, during, and after "Reputation" was released. Using topic modeling, we identified clusters of similar words in the tweets. Our results show that, on average, opinions towards Taylor Swift did not change, though there is indication of a shift in opinion towards Kanye West.
